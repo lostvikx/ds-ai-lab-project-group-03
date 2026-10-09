@@ -30,7 +30,7 @@
 
 ---
 
-## Examples
+## Sample
 
 Problem Statment: Automated Road Damage Detection Using Computer Vision
 
