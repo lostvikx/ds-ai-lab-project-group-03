@@ -7,20 +7,26 @@
 
 ## Medical Data
 
-1. Cervical Cancer Image Dataset: https://www.kaggle.com/datasets/robiulhasan0/cervical-cancer-image-dataset
-2. Ocular Disease Dataset: https://www.kaggle.com/datasets/manan1717/ocular-disease-dataset/data
+* Cervical Cancer Image Dataset: https://www.kaggle.com/datasets/robiulhasan0/cervical-cancer-image-dataset
+* Ocular Disease Dataset: https://www.kaggle.com/datasets/manan1717/ocular-disease-dataset/data
 
 ---
 
 ## Computer Vision
 
-1. Garbage Dataset: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+* Garbage Dataset: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
 
 ---
 
 ## Generative AI
 
-1. Food Nutrition Dataset: https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data
+* Food Nutrition Dataset: https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data
+
+---
+
+## Natural Language
+
+* Indian Fake News: https://www.kaggle.com/datasets/imbikramsaha/fake-real-news/data
 
 ---
 
